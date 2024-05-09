@@ -1,1 +1,3 @@
 # Pokemon-app-SwiftUI
+
+https://miro.com/welcomeonboard/TUJyampSdXJPaEdrTXR0UnE4T2xDVjlzbXkxNnV0bHZkY2Z3TkQ2TTI4VTdmSm5nVEx6TWJZSVpENmlldXl2WXwzNDU4NzY0NTg4NDAwNDkyMDAxfDI=?share_link_id=393260479540
